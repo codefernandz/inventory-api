@@ -3,6 +3,7 @@ node_modules/
 
 # Build
 dist/
+src/generated/
 
 # Variables de entorno
 .env
